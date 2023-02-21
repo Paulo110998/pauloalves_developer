@@ -1,0 +1,27 @@
+
+
+h1,h2, h3, h4, h5, a{
+    color:black;
+    
+   
+}
+
+
+a:link, a:visited, a:active {
+text-decoration: none;
+}
+a:hover {text-decoration: underline;
+color: aquamarine;
+font-size:110%;
+background-image: linear-gradient(to bottom right, transparent, #333 );
+border-radius: 50px 50px 50px 50px;
+}
+
+button{
+    font-size: 20px;
+    margin-right: 1000px;
+    background-color: #5F9EA0;
+    border-color: black;
+    border-radius: 10px 10px 10px 10px;
+    
+}
